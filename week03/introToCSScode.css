@@ -1,0 +1,26 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    font-family: Courier New;
+    font-size: 50px;
+}
+
+h2 {
+    text-decoration: line-through;
+}
+
+p{
+    background-color: lavender;
+    padding: 10vh;
+    border: solid black;
+}
+
+.these {
+    background-color: cornsilk
+}
+.this {
+    background-color: floralwhite
+}
+
