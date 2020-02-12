@@ -2,24 +2,36 @@ body {
     background-color: darkgray;
     font-family: Helvetica;
 }
-/*
-
-#me {
-    height: 600px
-}
-
-#az {
-    height: 600px;
-    margin-left: 100px;
-}
-*/
 
 #museum {
     height: 600px; 
 }
 
-#selfPortrait {
-    margin-left: 20px;
+h1 {
     color: whitesmoke;
+}
+
+h2 {
+    color: whitesmoke
+}
+
+
+#week01 {
     font-size: 20px;
+    color: whitesmoke;
+}
+
+#week02 {
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+#week03 {
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+#week04 {
+    font-size: 20px;
+    color: whitesmoke;   
 }
