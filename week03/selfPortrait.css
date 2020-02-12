@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+}
+
+.myNose{
+    font-size: 70px;
+    margin: -100px 0px 0px 270px;
+}
+
+button{
+    border: solid 8px;
+    border-color: black;
+    font-size: 40px;
+    margin: 120px 50px 50px 60px;
+    padding: 52px;
+    border-radius: 70px;
+}
+
+
+.bridge {
+    transform: rotate(90deg);
+    font-size: 110px;
+    display: inline-block;
+}
+
+#rightEye {
+    margin: 52px 40px 52px 0px;
+    display: inline-block;
+    
+}
+
+#leftEye {
+    margin: 52px 30px 52px 28px;
+    display: inline-block;
+}
+
+#myFace {
+    
+    background-color: blanchedalmond;
+    border-radius: 200px;
+    border-color: black;
+    width: 630px;
+    height: 630px;   
+}
+
+.mouth {
+    margin: 80px 200px 60px 200px;
+    font-size: 200px;
+    transform: rotate(90deg);      
+}
