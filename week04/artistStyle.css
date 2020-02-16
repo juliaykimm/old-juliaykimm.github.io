@@ -11,6 +11,10 @@ p {
     text-align: center;
 }
 
+i {
+    text-align: center;
+}
+
 button {
     background-color: antiquewhite;
     border-radius: 50px;
