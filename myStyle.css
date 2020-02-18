@@ -1,13 +1,10 @@
 body {
     background-color: darkgray;
     font-family: Helvetica;
+    text-align: center;
 }
 
-#museum {
-    height: 600px; 
-}
-
-h1 {
+h1 { 
     color: whitesmoke;
 }
 
@@ -16,22 +13,11 @@ h2 {
 }
 
 
-#week01 {
+a {
     font-size: 20px;
     color: whitesmoke;
+    font-size: 30px;
+    line-height: 2.0;
 }
 
-#week02 {
-    font-size: 20px;
-    color: whitesmoke;
-}
 
-#week03 {
-    font-size: 20px;
-    color: whitesmoke;
-}
-
-#week04 {
-    font-size: 20px;
-    color: whitesmoke;   
-}
