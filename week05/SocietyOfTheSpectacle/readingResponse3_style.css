@@ -1,0 +1,38 @@
+body {
+    background-color: floralwhite;
+    font-family: Roboto Mono;
+}
+
+h1 {
+    justify-content: center;
+    font-size: 4vw;
+    display: flex;
+}
+
+h2 {
+    justify-content: center;
+    font-size: 2vw;
+    display: flex;
+}
+
+p{
+    margin-left: 20vw;
+    margin-right: 20vw;
+    font-size: 1.5vw;
+    display: flex;
+}
+ 
+
+#quote {
+    justify-content: center;
+    display: flex;
+}
+
+
+#flexBoxes {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2vw;
+    height: 10vw;
+}
