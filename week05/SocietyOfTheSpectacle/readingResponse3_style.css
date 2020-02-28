@@ -16,9 +16,9 @@ h2 {
 }
 
 p{
-    margin-left: 50vw;
-    margin-right: 50vw;
-    font-size: 1.8vh;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    font-size: 1.5vh;
     display: flex;
 }
 
@@ -47,7 +47,6 @@ a {
     color: black;
     margin: 2vh;
     margin: 2vh;
-    font-size: 2vh;
 
 }
 
