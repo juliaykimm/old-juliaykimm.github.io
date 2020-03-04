@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Roboto Mono;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    margin-left: 30vh;
+    margin-right: 30vh;
+}
+
+.currentSite {
+    width: 120vh;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+a:hover {
+    color: dimgrey;
+}
+
+.newSite {
+    width: 100vh;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
