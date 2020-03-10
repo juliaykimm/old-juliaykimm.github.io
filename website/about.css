@@ -1,0 +1,19 @@
+.about {
+    display: flex;
+    color: lightskyblue;
+    margin-left: 3vh;
+    margin-top: 3vh;
+    text-decoration: none;
+}
+.mePics {
+    display: flex;
+    background-color: white;
+    color: black;  
+}
+
+.me {
+    width: 50vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+

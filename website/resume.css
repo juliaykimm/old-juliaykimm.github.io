@@ -1,0 +1,60 @@
+.resume {
+    color: lightskyblue;
+    margin-left: 3vh;
+    margin-top: 3vh;
+    text-decoration: none;
+}
+
+/*
+h3 {
+    display: flex;
+    justify-content: center;
+    font-size: 2vh;
+}
+
+.content {
+    display: flex;
+    font-size: 2vh;
+    margin-left: 20vh;
+    margin-right: 20vh;
+}
+
+.information {
+    display: inline-block;
+    font-size: 1.5vh;
+    margin-left: 20vh;
+    margin-right: 20vh;
+}
+
+.dates {
+    display: inline-block;
+    float: right;
+    font-size: 1.5vh;
+    margin-left: 20vh;
+    margin-right: 20vh;
+}
+
+.details {
+    display: flex;
+    font-size: 1.3vh;
+    margin-left: 20vh; 
+}
+*/
+
+.resumeImg {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80vh;
+}
+
+.download {
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.download:hover {
+    color: lightskyblue;
+}
+
