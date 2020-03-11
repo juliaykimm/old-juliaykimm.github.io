@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> JULIA KIM</title>
+        <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.0/slick/slick.css"/>
+        <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+        <link rel="shortcut icon" href="logo.jpg">
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed|Roboto+Mono|Trade+Winds&display=swap" rel="stylesheet">
+        <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1"> 
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="myStyle.css">
+        <link rel="stylesheet" type="text/css" href="photos.css">
+    </head>
+    
+    <body>
+        <div class="navBar">
+            <a class="head" href="https://juliaykimm.github.io/website/about.html">ABOUT</a>
+            <a class="photos" href="https://juliaykimm.github.io/website/photots.html">PHOTOS</a>
+            <a class="head" href="https://juliaykimm.github.io/website/resume.html">RESUME</a>
+            <a class="head" href="https://juliaykimm.github.io/website/projects.html">PROJECTS</a>
+        </div>
+        <br>
+        <h1 class="headers">PHOTO GALLERY</h1>
+        <br>
+        <br>
+        <br>
+        <br>
+        <div class="gallery">
+            <img class="pics" src="imgs/plants.JPG">
+            <img class="pics" src="imgs/rocks.JPG">
+            <img class="pics" src="imgs/dunes.JPG">
+            <img class="pics" src="imgs/gcTree.JPG">
+            <img class="pics" src="imgs/bonsai.jpg">
+            <img class="pics" src="imgs/parisWater.JPG">
+            <img class="pics" src="imgs/parisApts.JPG">
+            <img class="pics" src="imgs/goldenRoom.JPG">
+            <img class="pics" src="imgs/gc.jpg">
+            <img class="pics" src="imgs/homeLights.JPG">
+            <img class="pics" src="imgs/wash.jpg">
+            <img class="pics" src="imgs/planb.JPG">
+            <img class="pics" src="imgs/blurryLights.jpg">
+            <img class="pics" src="imgs/parisWindow.JPG">
+            <img class="pics" src="imgs/candles.JPG">
+            <img class="pics" src="imgs/futureCity.jpg">
+            <img class="pics" src="imgs/brooklynBridge.JPG">
+            <img class="pics" src="imgs/japaneseBuilding.jpg">
+            
+        </div>
+        <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+        <script type="text/javascript" src="slick/slick.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function(){
+                $('.gallery').slick({
+                    dots: true,
+                    infinite: true,
+//                    speed: 300,
+//                    slidesToShow: 1,
+//                    variableHeight: true,
+                    variableWidth: true,
+                    centerMode: true,
+//                    centerPadding: '2vw'
+//                    respondTo: slider
+                });
+            });
+        </script>
+        
+    </body>
+</html> 
