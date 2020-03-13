@@ -1,0 +1,26 @@
+.projects {
+    color: lightskyblue;
+    margin-left: 3vh;
+    margin-top: 3vh;
+    text-decoration: none;
+}
+
+.projectButtons {
+    border-radius: 2vh;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin: 5vh;
+    font-size: 3vh;
+    border: solid black;
+    padding: 3vh;
+    text-decoration: none;
+    color: black;
+}
+
+.buttons:hover {
+    color: lightskyblue;
+    border-color: lightskyblue;
+}
