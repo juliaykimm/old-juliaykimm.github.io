@@ -12,7 +12,8 @@
 .buttons {
     display: flex;
     justify-content: center;
-    margin: 5vh;
+    margin-left: 50vh;
+    margin-right: 50vh;
     font-size: 3vh;
     border: solid black;
     padding: 3vh;
