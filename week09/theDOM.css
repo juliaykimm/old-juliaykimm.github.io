@@ -1,0 +1,22 @@
+body {
+    font-family: Helvetica; 
+}
+
+button {
+    display: flex;
+    padding: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    border: 5px solid grey;
+}
+
+button:hover {
+    border: 5px solid black;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
