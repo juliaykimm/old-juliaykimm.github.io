@@ -1,0 +1,45 @@
+  
+body {
+    font-family: Helvetica; 
+    background-image: url(https://media3.giphy.com/media/TqkuOoKtmYI80/source.gif);
+}
+
+#firstButton {
+    background-color: #b58ff2;
+    display: flex;
+    margin-right: auto;
+    margin-left: 15vh;
+    margin-top: 100px;
+}
+
+#secondButton {
+    background-color: #b58ff2;
+    display: flex;
+    margin-left: auto;
+    margin-right: 15vh;
+    margin-top: 200px;
+}
+
+#thirdButton {
+    background-color: #b58ff2;
+    display: flex;
+    margin-left: 20vh;
+    margin-right: auto;
+    margin-bottom: 100px;
+    margin-top: 200px;
+
+}
+
+button:hover {
+    border: 2px solid grey;
+}
+
+#windowOne {
+    color: black;
+}
+
+p {
+    font-size: 20px;
+    color: #b58ff2;
+}
+
