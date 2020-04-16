@@ -18,7 +18,7 @@ var start =  $("#start").click(function(){
 
 function lost(){
     if(gameStart == true){
-        gameStart = false
+        gameStart = false;
         console.log("hi");
         body.css("background-color", "red");
         stat.text('you lost!');
@@ -27,6 +27,7 @@ function lost(){
 
 function won(){
     if(gameStart == true){
+        gameStart = false;
         stat.text('you won!');
         body.css("background-color", "green");
     }
