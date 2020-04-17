@@ -21,14 +21,14 @@ function lost(){
         gameStart = false;
         console.log("hi");
         body.css("background-color", "red");
-        stat.text('you lost!');
+        stat.text('you LOST! click yellow button to try again');
     }
 }
 
 function won(){
     if(gameStart == true){
         gameStart = false;
-        stat.text('you won!');
+        stat.text('you WON! click yellow button to restart');
         body.css("background-color", "green");
     }
 }
