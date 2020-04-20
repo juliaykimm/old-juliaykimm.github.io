@@ -1,10 +1,14 @@
 .body{
-    font-family: Helvetica;
+    font-family: 'Anton', sans-serif;
     background-color: lightblue;
 }
 
 h1, h2, h3 {
     text-align: center;
+}
+
+#lose{
+    visibility: hidden;
 }
 
 button{
@@ -44,9 +48,6 @@ p {
     border: 1px solid black;
     padding: 5px;
     cursor: default;
-    font-family: "Helvetica", "Arial", sans-serif;
-    font-size: 25pt;
-    text-align: center;
 }
         
 #start {
@@ -57,9 +58,6 @@ p {
     border: 1px solid black;
     padding: 5px;
     cursor: default;
-    font-family: "Helvetica", "Arial", sans-serif;
-    font-size: 25pt;
-    text-align: center;
 }
     
 #maze #start {
