@@ -1,0 +1,10 @@
+body{
+    background-color: #f25130;
+}
+
+#crepePic{
+    width: 60vh;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}

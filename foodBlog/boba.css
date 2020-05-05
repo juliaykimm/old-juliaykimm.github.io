@@ -1,0 +1,10 @@
+body{
+    background-color: #deba66;
+}
+
+#bobaPic{
+    width: 30vw;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
