@@ -1,0 +1,17 @@
+body{
+    background-color: #874B16;
+    margin-right: 25vh;
+    margin-left: 25vh;
+}
+
+#cookiePic{
+    width: 30vw;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#titles2{
+  color: #472604;
+}
+

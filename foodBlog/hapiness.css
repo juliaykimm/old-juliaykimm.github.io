@@ -1,0 +1,16 @@
+body{
+    background-color: #cdb0ff;
+    margin-right: 25vh;
+    margin-left: 25vh;
+}
+
+#smilePic{
+    width: 50vh;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+} 
+
+#titles2{
+    color: #7641e8;
+}

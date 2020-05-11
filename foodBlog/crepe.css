@@ -1,0 +1,16 @@
+body{
+    background-color: #edc179;
+    margin-right: 25vh;
+    margin-left: 25vh;
+}
+
+#crepePic{
+    width: 60vh;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+} 
+
+#titles2{
+    color: #f25130;
+}

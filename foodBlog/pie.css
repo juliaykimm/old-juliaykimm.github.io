@@ -1,0 +1,17 @@
+body{
+    background-color: #d63131;
+    margin-right: 25vh;
+    margin-left: 25vh;
+}
+
+#piePic{
+    width: 30vw;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+} 
+
+#titles2{
+    color: #fae2c3;
+}
+

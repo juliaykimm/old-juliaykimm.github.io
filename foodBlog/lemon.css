@@ -1,0 +1,17 @@
+body{
+    background-color: #f2eb27;
+    margin-right: 25vh;
+    margin-left: 25vh;
+}
+
+#lemonPic{ 
+    width: 50vh;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+} 
+
+#titles2{
+    color: #d12424;
+  }
+  

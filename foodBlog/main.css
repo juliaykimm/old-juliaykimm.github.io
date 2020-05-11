@@ -1,0 +1,84 @@
+body {
+    font-family: Roboto Slab;
+    line-height: 2; 
+} 
+
+#juliaBlog{
+    visibility: hidden;
+}
+
+#titles{
+    display: flex;
+    justify-content: center;
+    font-size: 7vh;
+}
+
+#titles2{
+    display: flex;
+    justify-content: center;
+    font-size: 7vh;
+}
+ 
+* { color:black; text-decoration: none;}
+ 
+#recipes{
+    text-decoration: none;
+    color: black;
+    display: block;
+    text-align: center;
+}
+
+#recipes:hover{
+    color: darkgrey;
+}
+
+#foodPics{
+    height: 40vh;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#foodPics:hover{
+    opacity: 0.8;
+
+}
+
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 5vh;
+}
+.item {
+    font-size: 30px;
+    padding-bottom: 3vh;
+}
+
+#backLink{
+    text-decoration: none;
+    color: black;
+    display: block;
+    text-align: center;
+}
+
+#backLink:hover{
+    font-size: 2vh;
+
+}
+
+.details{
+    font-size: 2vh;
+    border: 3px solid rgba(0, 0, 0, 0.8);
+    margin-bottom: 3vh;
+    padding: 40px;
+}
+
+#h3{
+    font-size: 22px;
+    text-align: center;
+}
+
+.title{
+    margin-bottom: 3vh;
+}
+
